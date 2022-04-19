@@ -1,0 +1,12 @@
+ @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+    *{box-sizing: border-box;}
+    #img-div{display:grid; justify-self: center; align-self: center;}
+    #image{margin-left: auto; margin-right: auto;width:100%;}
+    #title{ text-align: center; height: 150px;font-family: Merriweather;
+        font-size: 2rem;font-weight: bold;padding: 20px 0px; }
+        span{font-size: 1rem;}
+    #img-caption{text-align: center; font-size: larger;font-family: Merriweather ;}
+    #tribute-info{margin-left: auto;margin-right: auto; text-align: justify;font-size: 1.5rem;padding: 5px 15px;}
+    li{padding-top: 10px;}
+    footer{font-size: 1.1rem; font-family: merriweather;padding: 5px 15px 20px 15px;font-weight: bold;}
+    .back_gray{background-color: rgb(201, 189, 189);}
